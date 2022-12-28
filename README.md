@@ -1,4 +1,4 @@
-### Hi there, I'm Alex! 👋
+### Salut!
 
 - 19 y.o.
 - He / him
