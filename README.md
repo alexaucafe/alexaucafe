@@ -5,7 +5,7 @@
 - Living in Minsk
 - 🌿 Studying at MSLU
 - 🌊 Developing in Python
-- 🌌 Studying Kotlin & Dart
+- 🌌 Learning Kotlin & Dart
 
 <!--
 **alexaucafe/alexaucafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
