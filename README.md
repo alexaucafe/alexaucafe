@@ -1,4 +1,4 @@
-![Cover picture](cover.jpeg)
+![Cover picture. Source: Neon Genesis Evangelion](cover.jpeg)
 
 ### Salut!
 
