@@ -1,3 +1,5 @@
+![Cover picture](cover.jpeg)
+
 ### Salut!
 
 - 19 y.o.
