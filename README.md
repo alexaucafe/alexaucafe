@@ -2,12 +2,12 @@
 
 ### Salut!
 
-- 19 y.o.
+- 12 y.o.
 - He / him
-- Living in Minsk
+- Minsk, Belarus
 - 🌿 Studying at MSLU
 - 🌊 Developing in Python
-- 🌌 Learning Kotlin & Dart
+- 🌌 Learning Kotlin & TS
 
 <!--
 **alexaucafe/alexaucafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
