@@ -2,7 +2,7 @@
 
 ### Salut!
 
-- 12 y.o.
+- 20 y.o.
 - He / him
 - Minsk, Belarus
 - 🌿 Studying at MSLU
