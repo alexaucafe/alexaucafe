@@ -2,9 +2,6 @@
 
 ### Salut!
 
-- 20 y.o.
-- He / him
-- Minsk, Belarus
 - 🌿 Studying at MSLU
 - 🌊 Developing in Python
 - 🌌 Learning Kotlin & TS
